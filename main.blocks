@@ -1,0 +1,19 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="x$p5M_^StKRcb~K/7/Sb" x="51" y="-717"><statement name="HANDLER"><block type="device_show_leds" id="`02JDW$Clr~Ma1[l`l/e"><field name="LEDS">`
+        # . # . # 
+        # . # . . 
+        # # # . # 
+        # . # . # 
+        # . # . #
+        `</field><next><block type="device_pause" id="+DZ+bf.9bKOQi/qHgk]["><value name="pause"><shadow type="timePicker" id="#jbMgyg5b@l!R9Pz/w#x"><field name="ms">2000</field></shadow></value><next><block type="basic_show_icon" id="~^~[Y:PY1!8-#2JTTkgm"><field name="i">IconNames.Heart</field><next><block type="device_pause" id="U.$1?1D(:rQpWC^=%?do"><value name="pause"><shadow type="timePicker" id="Xwk?SO;?1KK~hAVVy_I)"><field name="ms">1000</field></shadow></value><next><block type="basic_show_icon" id="W[)KCw;ZJh}I;Pw/mm}O"><field name="i">IconNames.Happy</field></block></next></block></next></block></next></block></next></block></statement></block><block type="device_button_event" id="/:ftT$lfNh(:%5h9Nu?@" x="318" y="-225"><field name="NAME">Button.AB</field><statement name="HANDLER"><block type="device_print_message" id="8#wGsic^a_:E[cy@{?i1"><value name="text"><shadow type="text" id="iZ76}HIwT2OLt3Wr`H]("><field name="TEXT">Be Urself :)</field></shadow></value></block></statement></block><block type="device_button_event" id="hogku)ciCY:,`#8%,Df?" x="78" y="-199"><field name="NAME">Button.B</field><statement name="HANDLER"><block type="device_print_message" id="N,QM+fGW6bl{,W;uj3d7"><value name="text"><shadow type="text" id="*9t]c(!?o/e~m_ELJcpp"><field name="TEXT">Ur perfect :)</field></shadow></value></block></statement></block><block type="every_interval" id="!s!Jo){#}pi!]8ie!A/{" x="278" y="-73"><value name="interval"><shadow type="longTimePicker" id="Vch!ay2qGv::(v,BB-X3"><field name="ms">500</field></shadow></value><statement name="HANDLER"><block type="device_print_message" id=":,Mb4IU^;h(EP8-_FB)@"><value name="text"><shadow type="text" id="!3Km|3iAmwy/0`fjEF,X"><field name="TEXT">Just relax :)</field></shadow></value><next><block type="device_pause" id="pjFFvMx#j]NsuNg8f_$m"><value name="pause"><shadow type="timePicker" id="9TG@PYmu_TMdx*p0K~y~"><field name="ms">1000</field></shadow></value><next><block type="device_show_leds" id="v,vUg`1ppq0T,A:k:I.y"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . # . . 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="device_pause" id="Zw.+(oF%x1HE#z$h-1{5"><value name="pause"><shadow type="timePicker" id="Gm/t1oHEDUi}(:qwX{0T"><field name="ms">500</field></shadow></value><next><block type="basic_show_icon" id="NbzE1@*i42Yx{SM^tc!F"><field name="i">IconNames.SmallDiamond</field><next><block type="device_pause" id="Gm%-9B-+WYEhFqq=sOg6"><value name="pause"><shadow type="timePicker" id="8C8t;E`PmK)eB{n)78c-"><field name="ms">500</field></shadow></value><next><block type="basic_show_icon" id="jnph_r_Kjp!t-]H(,N@t"><field name="i">IconNames.Diamond</field><next><block type="device_pause" id="%sS4.)C-QyL8+u`5v9kS"><value name="pause"><shadow type="timePicker" id="B:9[n6nA+S[sJ_8ZseWw"><field name="ms">2000</field></shadow></value><next><block type="basic_show_icon" id="b12HE$Kch%KcQ~*$5X^e"><field name="i">IconNames.SmallDiamond</field><next><block type="device_pause" id="uY[=!%1)*R[Sq1q^G]d-"><value name="pause"><shadow type="timePicker" id="Yo[ZN`]EA+Vg2nm!J$f{"><field name="ms">500</field></shadow></value><next><block type="device_show_leds" id="Zim]ufG|-,9UBYa)}~4y"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . # . . 
+        . . . . . 
+        . . . . .
+        `</field></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block></xml>
